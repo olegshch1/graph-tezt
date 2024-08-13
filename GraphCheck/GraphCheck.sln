@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCheck", "GraphCheck\GraphCheck.csproj", "{70D6E83F-300A-48F9-9A5D-5DE100D522A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCheckTests", "GraphCheckTests\GraphCheckTests.csproj", "{C9F65C28-6442-4E13-9C34-AF5A5C3D960C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70D6E83F-300A-48F9-9A5D-5DE100D522A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D6E83F-300A-48F9-9A5D-5DE100D522A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D6E83F-300A-48F9-9A5D-5DE100D522A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D6E83F-300A-48F9-9A5D-5DE100D522A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F65C28-6442-4E13-9C34-AF5A5C3D960C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F65C28-6442-4E13-9C34-AF5A5C3D960C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F65C28-6442-4E13-9C34-AF5A5C3D960C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F65C28-6442-4E13-9C34-AF5A5C3D960C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A901FE09-6A00-4ACD-A4A0-E69864A3B32A}
+	EndGlobalSection
+EndGlobal
